@@ -1,0 +1,14 @@
+// Import components style
+@import "components/index";
+
+* {
+  color: $black;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: inherit;
+}
